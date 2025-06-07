@@ -1,0 +1,10 @@
+{
+ "name": "tixiy ogonek",
+ "displayName": "tixiy ogonek",
+ "author": "filipok for nazar",
+ "description": "tixiy ogonek for nazar",
+ "version": "1",
+
+ "minGameVersion": "140",
+ "dependencies": []
+}
